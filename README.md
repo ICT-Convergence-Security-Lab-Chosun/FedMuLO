@@ -1,2 +1,2 @@
-# FedMULO
+# FedMuLO
 public when accepted
